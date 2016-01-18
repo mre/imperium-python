@@ -4,7 +4,7 @@ Impermium API bindings
 API Version 2.0
 ---------------
 
-::
+.. code:: python
 
     from impermium import ImpermiumAPI
 
@@ -22,7 +22,7 @@ API Version 2.0
 API Version 3.0
 ---------------
 
-::
+.. code:: python
 
     from impermium import ImpermiumAPI
 
